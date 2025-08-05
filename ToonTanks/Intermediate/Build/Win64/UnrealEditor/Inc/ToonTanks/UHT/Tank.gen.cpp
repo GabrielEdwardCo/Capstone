@@ -32,7 +32,7 @@ struct Z_Construct_UClass_ATank_Statics
 #if WITH_METADATA
 	static constexpr UECodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
 #if !UE_BUILD_SHIPPING
-		{ "Comment", "/**\n * \n */" },
+		{ "Comment", "/**\n *\n */" },
 #endif
 		{ "HideCategories", "Navigation" },
 		{ "IncludePath", "Tank.h" },
@@ -119,10 +119,10 @@ ATank::~ATank() {}
 struct Z_CompiledInDeferFile_FID_Users_Gabri_OneDrive_Documents_SNHU_Capstone_Capstone_Repo_Capstone_ToonTanks_Source_ToonTanks_Tank_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATank, ATank::StaticClass, TEXT("ATank"), &Z_Registration_Info_UClass_ATank, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATank), 3684171247U) },
+		{ Z_Construct_UClass_ATank, ATank::StaticClass, TEXT("ATank"), &Z_Registration_Info_UClass_ATank, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATank), 2775362436U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gabri_OneDrive_Documents_SNHU_Capstone_Capstone_Repo_Capstone_ToonTanks_Source_ToonTanks_Tank_h_1909046273(TEXT("/Script/ToonTanks"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_Gabri_OneDrive_Documents_SNHU_Capstone_Capstone_Repo_Capstone_ToonTanks_Source_ToonTanks_Tank_h_4204693400(TEXT("/Script/ToonTanks"),
 	Z_CompiledInDeferFile_FID_Users_Gabri_OneDrive_Documents_SNHU_Capstone_Capstone_Repo_Capstone_ToonTanks_Source_ToonTanks_Tank_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_Gabri_OneDrive_Documents_SNHU_Capstone_Capstone_Repo_Capstone_ToonTanks_Source_ToonTanks_Tank_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

@@ -7,7 +7,7 @@
 #include "Tank.generated.h"
 
 /**
- * 
+ *
  */
 UCLASS()
 class TOONTANKS_API ATank : public ABasePawn
@@ -36,7 +36,7 @@ private:
 	class UCameraComponent* Camera;
 
 	UPROPERTY(EditAnywhere, Category = "Movement")
-	float Speed = 200.f;
+	float Speed = 600.f;
 
 	UPROPERTY(EditAnywhere, Category = "Movement")
 	float TurnRate = 45.f;

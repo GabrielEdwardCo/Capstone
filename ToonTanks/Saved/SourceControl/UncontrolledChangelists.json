@@ -7,7 +7,9 @@
 			"files": [
 				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Maps/Main.umap",
 				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Pawns/BP_PawnTank.uasset",
-				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset"
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Pawns/BP_PawnTurret.uasset",
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset"
 			]
 		}
 	]

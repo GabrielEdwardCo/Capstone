@@ -1,5 +1,5 @@
 # ---------------------------------------------------
-# Visual Studio / IDE files
+# IDE / Editor files
 # ---------------------------------------------------
 .vs/
 *.sln
@@ -12,36 +12,29 @@
 *.sdf
 
 # ---------------------------------------------------
-# Compiled object / binary files
+# Compiled binaries / libraries
 # ---------------------------------------------------
-*.slo
-*.lo
 *.o
 *.obj
-*.gch
-*.pch
 *.so
 *.dylib
 *.dll
-*.mod
-*.lai
-*.la
 *.a
 *.lib
 *.exe
-*.out
 *.app
 *.ipa
+*.out
 
 # ---------------------------------------------------
-# Unreal Engine auto-generated folders
+# Unreal Engine generated folders
 # ---------------------------------------------------
 Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
 
-# Also for plugins
+# Plugin build outputs
 Plugins/*/Binaries/*
 Plugins/*/Intermediate/*
 
@@ -50,26 +43,24 @@ Plugins/*/Intermediate/*
 # ---------------------------------------------------
 Build/
 
-# Whitelist PakBlacklist-<BuildConfiguration>.txt
+# Whitelist PakBlacklist files
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
-
-# Don’t ignore icons in Build
 !Build/**/*.ico
 
 # ---------------------------------------------------
-# Precompiled / cached assets
+# Auto-generated or precompiled assets
 # ---------------------------------------------------
 *_BuiltData.uasset
 SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # ---------------------------------------------------
-# Packaging / archives
+# Archives / packages
 # ---------------------------------------------------
 *.zip
 *.7z
+*.rar
 *.tar
 *.gz
-*.rar

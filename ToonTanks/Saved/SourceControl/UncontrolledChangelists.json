@@ -11,7 +11,10 @@
 				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/GameMode/BP_ToonTanksGameMode.uasset",
 				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/PlayerController/BP_ToonTanksPlayerController.uasset",
 				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Widgets/WBP_StartGameWidget.uasset",
-				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset"
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Widgets/WBP_EndGameWidget.uasset",
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/Actors/BP_Projectile.uasset",
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/CameraShake/BP_HitCameraShake.uasset",
+				"C:/Users/Gabri/OneDrive/Documents/SNHU/Capstone/Capstone Repo/Capstone/ToonTanks/Content/Blueprints/CameraShake/BP_DeathCameraShake.uasset"
 			]
 		}
 	]

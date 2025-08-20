@@ -16,14 +16,16 @@ The tutorial says use the latest UE5.x version. I have used 5.4.4 for the last s
 ## Artifact 2: Enemy: Turrent
 - Create an enemy Turret Class
 
-## Artifact 3: Enemy: Projectiles and SFX
+
+## Artifact 3: UI/UX and Win/Lose Conditions
+- Add health, damage, and destruction to the game
+- Add winning/losing conditions with HUD displays
+
+
+## Artifact 4: Enemy: Projectiles and SFX
 - Add fire functionality with projectiles
 - Add special effects (smoke, explosions, sounds)
 
-
-## Artifact 4: UI/UX and Win/Lose Conditions
-- Add health, damage, and destruction to the game
-- Add winning/losing conditions with HUD displays
 
 
 
